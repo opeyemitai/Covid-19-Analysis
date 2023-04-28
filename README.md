@@ -14,7 +14,7 @@ Total Deaths By Geography: The map is showing the geographical plot of the  dist
  
 1) The Government should ensure that media outlet or health officials educate people on preventive measures.
 2) The wearing of masks should be enforced especially in large gatherings.
-3) Social distancing should be encourage to avoid or prevent the spread of the virus.
+3) Social distancing should be encouraged to avoid or prevent the spread of the virus.
 
 ## DASHBOARD
 ![image](https://user-images.githubusercontent.com/119592062/234792279-f842d05c-9df7-4ca8-a33b-4a867c6eba9e.png)
