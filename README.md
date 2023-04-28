@@ -13,7 +13,7 @@ Total Deaths By Geography: The map is showing the geographical plot of the  dist
 ## RECOMMENDATIONS
  
 1) The Government should ensure that media outlet or health officials educate people on preventive measures.
-2) The wearing of masks should be enforce especially in large gatherings.
+2) The wearing of masks should be enforced especially in large gatherings.
 3) Social distancing should be encourage to avoid or prevent the spread of the virus.
 
 ## DASHBOARD
